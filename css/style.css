@@ -1,0 +1,22 @@
+body {
+    background-color: #336699;
+    font-family: Veranda, Arial, sans-serif;
+    font-size: 13px;
+}
+
+#page {
+    width: 700px;
+    margin: 20px auto;
+    background-color: #ffffff;
+    border: 4px ridge #999999;
+    padding: 15px;
+}
+
+h1 {
+    color: #003366;
+    text-align: center;
+}
+
+a {
+    color: #0000ee;
+}
