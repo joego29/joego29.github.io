@@ -9,7 +9,7 @@ body {
 }
 
 #page {
-    width: 700px;
+    width: 850px;
     margin: 20px auto;
     background-color: #ffffff;
     border: 4px ridge #999999;
@@ -101,3 +101,15 @@ h2 {
 a {
     color: #0000ee;
 }
+
+li {
+    margin-bottom: 4px;
+}
+
+.reslist {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    font-size: 12px;
+    padding-left: 18px;
+}
+
